@@ -1,0 +1,6 @@
+model.py da o'zgarish qilindi
+
+Model => Manager ga o'zgartirdik
+
+objects = models.Manager()
+products = ProductManager()   
